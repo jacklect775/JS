@@ -1,3 +1,4 @@
+//<![CDATA[
 $(function(a) {
     a.fn.lazyyard = function() {
         return this.each(function() {
@@ -559,3 +560,5 @@ $this.find('.post-thumb').lazyyard();
         }
     });
 })
+
+//]]>
